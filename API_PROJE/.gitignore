@@ -1,0 +1,15 @@
+# Python gereksizleri
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal Ortamlar (Bunlar yüklenmez!)
+venv/
+env/
+.env
+.venv/
+
+# IDE dosyaları
+.idea/
+.vscode/
+*.swp
